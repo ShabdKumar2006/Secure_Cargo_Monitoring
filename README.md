@@ -58,4 +58,10 @@ Sensor → STM32 → Communication Module → Firebase Cloud
 
 ## 👨‍🎓 Author
 **Shabd Kumar**  
-B.Tech | Embedded Systems & IoT
+B.Tech | Embedded Systems & IoT | Cambridge Institute of Technology
+
+## 🔐 Security Notice
+Sensitive credentials such as Wi-Fi details and cloud server endpoints
+have been removed from this repository for security reasons.
+Use the provided config_template.h file to add your own credentials.
+
